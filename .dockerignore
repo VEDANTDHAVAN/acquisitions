@@ -1,0 +1,9 @@
+node_modules
+logs
+.git
+.gitignore
+.env
+.env.*
+.neon_local
+Dockerfile
+**/*.log

@@ -1,2 +1,9 @@
 node_modules
+
+# dotenv files (never commit real secrets)
 .env
+.env.*
+!.env.example
+
+# Neon Local metadata (if you enable persistent branches)
+.neon_local/
